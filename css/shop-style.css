@@ -1,0 +1,26 @@
+.content .category .list-group-item{
+    border:none ;
+    border-bottom: 1px solid rgb(214, 213, 213);
+    padding-left:0 ;
+    margin-left:-25px ;
+}
+.content .category .list-group-item a{
+    text-decoration:none ;
+    color: gray;
+}
+
+.content .brand .list-group-item {
+    border:none ;
+    border-bottom: 1px solid rgb(214, 213, 213);
+    padding-left:0 ;
+    margin-left:-25px ;
+}
+
+.content .size .btn-group{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    justify-self: start;
+    gap: 10px;
+
+}
